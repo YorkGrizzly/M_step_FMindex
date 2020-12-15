@@ -1,0 +1,75 @@
+Printing sorted suffixes:
+0: $AAAGCCTA
+1: $AATCGCAT
+2: $GCATAAAG
+3: A$AAAGCCT
+4: AAAG$GCAT
+5: AAAGCCTA$
+6: AAG$GCATA
+7: AAGCCTA$A
+8: AATCGCAT$
+9: AG$GCATAA
+10: AGCCTA$AA
+11: AT$AATCGC
+12: ATAAAG$GC
+13: ATCGCAT$A
+14: CAT$AATCG
+15: CATAAAG$G
+16: CCTA$AAAG
+17: CGCAT$AAT
+18: CTA$AAAGC
+19: G$GCATAAA
+20: GCAT$AATC
+21: GCATAAAG$
+22: GCCTA$AAA
+23: T$AATCGCA
+24: TA$AAAGCC
+25: TAAAG$GCA
+26: TCGCAT$AA
+-----------------------------------------------------------------
+-----------------------------PRINTING VALID ROW-MAPS--------------------------
+0   0
+9   2
+16   3
+21   4
+23   6
+24   8
+30   9
+32   10
+35   11
+36   12
+37   13
+48   14
+53   16
+56   17
+60   18
+66   19
+74   20
+75   22
+88   23
+92   24
+93   25
+100   26
+-------------------------------------------------------------------
+--------------------Printing Occ_major:-------------------------
+[------0th major Occ-------]
+(0)1	(9)1	(16)1	(23)1	(35)1	(36)1	(48)2	(53)1	(56)1	(60)1	(66)1	(88)1	(92)1	(93)1	(100)1	
+
+--------------------Printing Occ_major:-------------------------
+[------0th major Occ-------]
+(23)1	(48)1	(53)1	(60)1	
+
+[------1th major Occ-------]
+(16)1	(36)1	(48)1	(92)1	
+
+[------2th major Occ-------]
+(0)1	(35)1	(56)1	(93)1	
+
+[------3th major Occ-------]
+(21)1	(23)1	(24)1	(32)1	
+
+[------4th major Occ-------]
+(21)1	(30)1	(37)1	(74)1	
+
+Querying for GCAT$AATC
+Result limits : 20 to 20
